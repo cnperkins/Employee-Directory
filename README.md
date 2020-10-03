@@ -11,9 +11,9 @@ CSS,
 JavaScript and
 Bootstrap.
 
-Here is a screenshot of the website:
+Here is a screenshot of the website: https://imagizer.imageshack.com/img923/6051/Mqq5GN.png
 
-Here is the deployed link:
+Here is the deployed link: https://whispering-shore-15346.herokuapp.com/
 
 Here is the github repository: https://github.com/cnperkins/Employee-Directory
 
