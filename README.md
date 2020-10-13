@@ -11,7 +11,7 @@ CSS,
 JavaScript and
 Bootstrap.
 
-Here is a screenshot of the website: https://imagizer.imageshack.com/img923/6051/Mqq5GN.png
+Here is a screenshot of the website: https://imagizer.imageshack.com/img924/1732/FbXi6U.png
 
 Here is the deployed link: https://whispering-shore-15346.herokuapp.com/
 
