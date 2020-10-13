@@ -1,15 +1,14 @@
 import React from "react";
 
-export default function Navbar(props) {
+export default function Nav(props) {
     return (
         <nav className="bg-primary text-center pt-2 ">
-            <div className="h1">Employee Directory</div>
+            <div><h2>Employee Directory</h2></div>
             <div>
-                <form className="">
+                <form>
                     <input
-                        className="input rounded m-4"
                         type="search"
-                        placeholder="Search by Employee"
+                        placeholder="Search Name"
                         aria-label="Search"
                         name="search"
                         onChange={props.handleInputChange}
